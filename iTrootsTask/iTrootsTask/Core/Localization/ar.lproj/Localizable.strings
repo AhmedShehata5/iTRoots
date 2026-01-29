@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  iTrootsTask
+
+  Created by Ahmed on 28/01/2026.
+  
+*/
+/* Login Screen */
+"login" = "تسجيل الدخول";
+"register" = "إنشاء حساب";
+"phone" = "رقم الهاتف";
+"password" = "كلمة المرور";
+"remember_me" = "تذكرني";
+"dont_have_account" = "ليس لديك حساب؟";
+"forgot_password" = "نسيت كلمة المرور؟";
+"back" = "رجوع";
+"Enter your phone" = "ادخل رقم الهاتف";
+"Enter your password" = "ادخل كلمة السر";
+"account_not_found_create_first" = "هذا الحساب غير موجود، برجاء إنشاء حساب أولاً";
+"account_not_found_create_first" = "هذا الحساب غير موجود، برجاء إنشاء حساب أولاً";
+
+/* Register Screen */
+
+"have_account" = "لديك حساب بالفعل؟";
+"name" = "الاسم";
+"email" = "البريد الإلكتروني";
+"Enter your name" = "أدخل اسمك";
+"Enter your email" = "أدخل بريدك الإلكتروني";
+"unknown_error" = "خطأ غير معروف";
+"account_already_registered" = "هذا الحساب مسجل بالفعل";
+
+
+/* Validation */
+"invalid_phone" = "من فضلك أدخل رقم هاتف صحيح";
+"invalid_password" = "كلمة المرور يجب ألا تقل عن 6 أحرف";
+"incomplete_data" = "بيانات غير مكتملة";
+"please_fill_all_fields" = "يرجى ملء جميع الحقول المطلوبة للمتابعة.";
+"ok" = "تم";
+"try_again" = "حاول مرة أخرى";
+"input_error" = "خطأ في الإدخال";
+"alert_title" = "\nتنبيه";
+"err_name_empty" = "الرجاء إدخال الاسم";
+"err_phone_empty" = "الرجاء إدخال رقم الهاتف";
+"err_email_empty" = "الرجاء إدخال البريد الإلكتروني";
+"err_email_invalid" = "البريد الإلكتروني غير صالح";
+"err_password_empty" = "الرجاء إدخال كلمة المرور";
+"err_password_short" = "كلمة المرور يجب أن لا تقل عن 6 أحرف";
+"err_phone_invalid" = "رقم الهاتف يجب أن يتكون من 10 أرقام";
+/* Main Screen */
+"Home" = "الرئيسية";
+"Products" = "المنتجات";
+"alert_title" = "تنبيه";
+"ok_button" = "موافق";
+
+/* Settings Screen */
+"Settings" = "الإعدادات";
+"Logout" = "تسجيل الخروج";
+
+/* Alerts */
+"Are you sure you want to exit?" = "هل أنت متأكد أنك تريد الخروج؟";
+"Cancel" = "إلغاء";
+"error" = "خطأ";
+"ok" = "حسناً";
+"server_error_showing_cached_data" = "حدث خطأ في الخادم، يتم عرض البيانات المحفوظة.";
+"no_internet_showing_cached_data" = "لا يوجد اتصال بالإنترنت، يتم عرض البيانات من الذاكرة المؤقتة.";
+"server_error" = "حدث خطأ في السيرفر";
+"no_internet_connection" = "لا يوجد اتصال بالإنترنت";

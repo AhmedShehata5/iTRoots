@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  iTrootsTask
+
+  Created by Ahmed on 28/01/2026.
+  
+*/
+/* Login Screen */
+"login" = "Login";
+"register" = "Register";
+"phone" = "Phone Number";
+"password" = "Password";
+"remember_me" = "Remember me";
+"dont_have_account" = "Don't have an account?";
+"forgot_password" = "Forgot password?";
+"back" = "Back";
+"Enter your phone" = "Enter your phone";
+"Enter your password" = "Enter your password";
+"account_not_found_create_first" = "This account does not exist. Please create an account first.";
+
+/* Register Screen */
+
+"have_account" = "have an account?";
+"name" = "Name";
+"email" = "Email";
+"Enter your name" = "Enter your name";
+"Enter your email" = "Enter your email";
+"unknown_error" = "Unknown error";
+"account_already_registered" = "This account is already registered";
+
+
+
+/* Validation */
+"invalid_phone" = "Please enter a valid phone number";
+"invalid_password" = "Password must be at least 6 characters";
+"incomplete_data" = "Incomplete Data";
+"please_fill_all_fields" = "Please fill in all required fields to continue.";
+"ok" = "OK";
+"try_again" = "Try Again";
+"input_error" = "Input Error";
+"alert_title" = "\nNotice";
+"err_name_empty" = "Please enter your name";
+"err_phone_empty" = "Please enter your phone number";
+"err_email_empty" = "Please enter your email";
+"err_email_invalid" = "Invalid email address";
+"err_password_empty" = "Please enter your password";
+"err_password_short" = "Password must be at least 6 characters";
+"err_phone_invalid" = "Phone number must be exactly 10 digits";
+"account_not_found_create_first" = "This account does not exist. Please create an account first.";
+
+/* Main Screen */
+"Home" = "Home";
+"Products" = "Products";
+"alert_title" = "Alert";
+"ok_button" = "OK";
+
+
+/* Settings Screen */
+"Settings" = "Settings";
+"Logout" = "Logout";
+
+/* Alerts */
+"Are you sure you want to exit?" = "Are you sure you want to exit?";
+"Cancel" = "Cancel";
+"error" = "Error";
+"ok" = "OK";
+"server_error_showing_cached_data" = "A server error occurred. Showing saved data.";
+"no_internet_showing_cached_data" = "No internet connection. Showing cached data.";
+"server_error" = "A server error occurred";
+"no_internet_connection" = "No internet connection";
